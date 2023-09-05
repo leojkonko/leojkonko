@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Nodejs**
 
-- 💬 Ask me about **React, Laravel, Front-end**
+- 💬 Ask me about **Javascript, PHP, Front-end**
 
 - 📫 How to reach me **+55 51 99857-6618**
 
