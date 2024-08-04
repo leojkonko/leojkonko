@@ -1,9 +1,9 @@
 **<h1 align="center">Hi 👋, I'm Leonardo Meyer</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🌱 I’m currently learning **React and Nodejs**
+- 🌱 I’m currently learning **React, React Native and Nodejs**
 
-- 💬 Ask me about **Javascript, PHP, Front-end**
+- 💬 Ask me about **Javascript, Typescript, PHP, Front-end**
 
 - 📫 How to reach me **+55 51 99857-6618**
 
